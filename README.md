@@ -3,19 +3,19 @@
 ### More of my writing
 
 <ul>
-     <li><a href="/posts/feature-flag-freedom/">Feature Flag Freedom</a></li>
-      <li><a href="/posts/pwl-age-partitioned-bloom-filters/">Age Partitioned Bloom Filters</a></li>
-      <li><a href="/posts/structured-improvement/">Structured Improvement</a></li>
-      <li><a href="/posts/architecture-rx/">Architecture Rx</a></li>
-      <li><a href="/posts/adams-technology-radar-2019/">Adam's Technology Radar 2019</a></li>
-      <li><a href="/posts/brain-freeze-from-clojure/">Brain Freeze from Clojure</a></li>
-      <li><a href="/posts/redis-ttl-is-no-free-lunch/">Redis TTL is No Free Lunch</a></li>
-      <li><a href="/posts/graphconnect-2018/">GraphConnect 2018</a></li>
-      <li><a href="/posts/the-hyper-logger/">The Hyper Logger</a></li>
-      <li><a href="/posts/learning-clojure/">Learning Clojure</a></li>
-      <li><a href="/posts/ruby-and-docker/">Ruby and Docker</a></li>
-      <li><a href="/posts/my-aws-reinvent-2017">My AWS ReInvent</a></li>
-      <li><a href="/posts/attendance-with-beacons/">Attendance with Beacons</a></li>
+     <li><a href="https://awolf.github.io/posts/feature-flag-freedom/">Feature Flag Freedom</a></li>
+      <li><a href="https://awolf.github.io/posts/pwl-age-partitioned-bloom-filters/">Age Partitioned Bloom Filters</a></li>
+      <li><a href="https://awolf.github.io/posts/structured-improvement/">Structured Improvement</a></li>
+      <li><a href="https://awolf.github.io/posts/architecture-rx/">Architecture Rx</a></li>
+      <li><a href="https://awolf.github.io/posts/adams-technology-radar-2019/">Adam's Technology Radar 2019</a></li>
+      <li><a href="https://awolf.github.io/posts/brain-freeze-from-clojure/">Brain Freeze from Clojure</a></li>
+      <li><a href="https://awolf.github.io/posts/redis-ttl-is-no-free-lunch/">Redis TTL is No Free Lunch</a></li>
+      <li><a href="https://awolf.github.io/posts/graphconnect-2018/">GraphConnect 2018</a></li>
+      <li><a href="https://awolf.github.io/posts/the-hyper-logger/">The Hyper Logger</a></li>
+      <li><a href="https://awolf.github.io/posts/learning-clojure/">Learning Clojure</a></li>
+      <li><a href="https://awolf.github.io/posts/ruby-and-docker/">Ruby and Docker</a></li>
+      <li><a href="https://awolf.github.io/posts/my-aws-reinvent-2017">My AWS ReInvent</a></li>
+      <li><a href="https://awolf.github.io/posts/attendance-with-beacons/">Attendance with Beacons</a></li>
     </ul>
 
 <!--
