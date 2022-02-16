@@ -1,6 +1,6 @@
 # Adam J Wolf
 
-> Hi, I'm Adam and I am a husband, pit bull lover, sawdust maker, Carhartt wearer and software engineer. Welcome to my little place on the internet. If you ever have a question, you can find me on [Twitter](https://twitter.com/adamjwolf).
+> Hi, I'm Adam and I am a husband, pit bull lover, sawdust maker, Carhartt wearer and VP of Cloud Architecture for Wealth.com. Welcome to my little place on the internet. If you ever have a question, you can find me on [Twitter](https://twitter.com/adamjwolf).
 
 ### More of my writing
 
