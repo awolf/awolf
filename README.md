@@ -1,6 +1,6 @@
 # Adam J Wolf
 
-> Hi, I'm Adam and I am a husband, pit bull lover, sawdust maker, Carhartt wearer and VP of Cloud Architecture for Wealth.com. Welcome to my little place on the internet. If you ever have a question, you can find me on [Twitter](https://twitter.com/adamjwolf).
+> Hi, I'm Adam and I Specialize in engineering, cloud architectures and scaling engineering organizations. I've worked on multiple B2B, B2C and B2B2C startups in the fintech, fraud detection and manufacturing spaces. As of late, I am a VP of Cloud Architecture & Engineering for Wealth.com and a mentor at Faster Capitol helping seed stage startups.
 
 ### More of my writing
 
