@@ -1,6 +1,6 @@
 # Adam J Wolf
 
-> Husband, pit bull lover, sawdust maker, Carhartt wearer and cloud architect @wealthcom. 
+> Husband, pit bull lover, sawdust maker, Carhartt wearer and software developer.
 
 ### More of my writing
 
