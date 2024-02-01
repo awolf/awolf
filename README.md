@@ -6,4 +6,4 @@
 - 🌱 Learning PHP and Laravel as a change of pace from my day job.
 - 💬 Ask me about anything really.
 - 📫 How to reach me: [my first name] (at) bifulco labs dot com 
-- ⚡ Fun fact: I also love cheese!
+- 🧀 Fun fact: I also love cheese!
